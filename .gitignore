@@ -1,0 +1,4 @@
+build/
+dist/
+django_failedfirsttestrunner.egg-info/
+*.pyc
